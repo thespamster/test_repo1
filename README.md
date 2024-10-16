@@ -1,1 +1,3 @@
-# test_repo1
+# Test Repo 1
+
+A test repo for Tailwind CSS
